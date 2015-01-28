@@ -23,6 +23,9 @@ It's supposed to do this.
 
 ### Environment
 
+  1. Operating System
+  1. Browser & Browser Version
+
 Attach a screenshot from [SupportDetails.com](http://supportdetails.com) so we know where you're coming from.
 ```
 
